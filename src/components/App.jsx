@@ -1,7 +1,11 @@
 import React from "react";
 
+import Header from "./Header";
+import { MainFrame } from "./App.style";
+
 export default () => (
-  <div>
+  <MainFrame>
+    <Header />
     <p>Coucou</p>
-  </div>
-)
+  </MainFrame>
+);
