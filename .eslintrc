@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "fbjs",
+    "prettier",
+    "prettier/react"
+  ]
+}
