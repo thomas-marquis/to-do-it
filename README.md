@@ -37,4 +37,5 @@ choix technologiques sur la perf et le poix du bundle.
 
 ## Lancer l'application
 
-TODO
+- lancer `npm i` pour installer les dépendances
+- pour démarrer le serveur de dev : `npm run start:dev`
